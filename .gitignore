@@ -1,0 +1,15 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/__pycache__
+/.vscode
+
+log.log
+log.log.1
+log.log.2
+log.log.3
+log.log.4
+log.log.5
+log.log.6
+p_bloomberg.bat
+BLPAPI Server README.docx
